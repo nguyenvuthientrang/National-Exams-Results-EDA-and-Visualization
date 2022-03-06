@@ -1,0 +1,58 @@
+Major ID,Major,Subjects Combination,Standard Grade,Main Subject
+BF1,Kỹ thuật Sinh học,"A00, B00, D07",26.2,Math
+BF2,Kỹ thuật Thực phẩm,"A00, B00, D07",26.6,Math
+BF-E12,Kỹ thuật Thực phẩm (CT tiên tiến),"A00, B00, D07",25.94,Math
+CH1,Kỹ thuật Hoá học,"A00, A01, B00, D07",25.26,Math
+CH2,Hoá học,"A00, A01, B00, D07",24.16,Math
+CH3,Kỹ thuật in,"A00, A01, B00, D07",24.51,Math
+CH-E11,Kỹ thuật Hóa dược (CT tiên tiến),"A00, A01, B00, D07",26.5,Math
+ED2,Công nghệ giáo dục,"A00, A01, D01",23.8,
+ΕΕ1,Kỹ thuật Điện,"A00, A01",27.01,Math
+EE2,Kỹ thuật Điều khiển - Tự động hoá,"A00, A01",28.16,Math
+EE-E8,Kỹ thuật Điều khiển - Tự động hoá và Hệ thống điện (CT tiên tiến),"A00, A01",27.43,Math
+EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),"A00, A01, D29",25.68,Math
+EM1,Kinh tế công nghiệp,"A00, A01, D01",24.65,
+EM2,Quản lý công nghiệp,"A00, A01, D01",25.05,
+EM3,Quản trị kinh doanh,"A00, A01, D01",25.75,
+EM4,Kế toán,"A00, A01, D01",25.3,
+EM5,Tài chính - Ngân hàng,"A00, A01, D01",24.6,
+EM-E13,Phân tích kinh doanh (CT tiên trên),"A00, A01",25.03,Math
+EM-E14,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),"A00, A01, D01",25.85,
+EM-VUW,Quản trị kinh doanh - hợp tác với ĐH Victoria Wellington (New Zealand),"A00, A01, D01",22.7,
+ET1,Kỹ thuật Điện tử - Viễn thông,"A00, A01",27.3,Math
+ET-E4,Kỹ thuật Điện tử - Viễn thông (CT tiên tiến),"A00, A01",27.15,Math
+ET-E5,Kỹ thuật Y sinh (CT tiên tiến),"A00, A01",26.5,Math
+ET-E9,Hệ thống nhúng thông minh và IoT (Ct tiên tiến),"A00, A01, D28",27.51,Math
+ET-LUH,Điện tử - Viễn thông -hợp tác với ĐH Leibniz Hannover (Đức),"A00, A01, D26",23.85,
+EV1,Kỹ thuật Môi trường,"A00, A01, B00, D07",23.85,Math
+FL1,Tiếng Anh KHKT và Công nghệ,D01,24.1,English
+FL2,Tiếng Anh chuyên nghiệp quốc tế,D01,24.1,English
+HE1,Kỹ thuật Nhiệt,"A00, A01",25.8,Math
+IT1,CNTT: Khoa học Máy tính,"A00, A01",29.04,Math
+IT2,CNTT: Kỹ thuật Máy tính,"A00, A01",28.65,Math
+IT-E10,Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến),"A00, A01",28.65,Math
+IT-E6,Công nghệ thông tin (Việt - Nhật),"A00, A01, D28",27.98,Math
+IT-E7,Công nghệ thông tin (Global ICT),"A00, A01",28.38,Math
+IT-EP,Công nghệ thông tin (Việt - Pháp),"A00, A01, D29",27.24,Math
+IT-LTU,Công nghệ thông tin - hợp tác với ĐH La Trobe (Úc),"A00, A01",26.5,
+IT-VUW,Công nghệ thông tin - hợp tác với ĐH Victoria Wellington (NeW Zealand),"A00, A01",25.55,
+ME1,Kỹ thuật Cơ điện tử,"A00, A01",27.48,Math
+ME2,Kỹ thuật Cơ khí,"A00, A01",26.51,Math
+ME-E1,Kỹ thuật Cơ điện tử (CT tiên tiến),"A00, A01",26.75,Math
+ME-GU,Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc),"A00, A01",23.9,
+ME-LUH,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức),"A00, A01, D26",24.2,
+ME-NUT,Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản),"A00, A01, D28",24.5,
+MI1,Toán - Tin,"A00, A01",27.56,Math
+MI2,Hệ thống thông tin quản lý,"A00, A01",27.25,Math
+MS1,Kỹ thuật Vật liệu,"A00, A01, D07",25.18,Math
+MS-E3,KHKT Vật liệu (CT tiên tiến),"A00, A01, D07",23.18,Math
+PH1,Vật lý kỹ thuật,"A00, A01",26.18,Math
+PH2,Kỹ thuật hạt nhân,"A00, A01, A02",24.7,Math
+TE1,Kỹ thuật Ô tô,"A00, A01",27.33,Math
+TE2,Kỹ thuật Cơ khí động lực,"A00, A01",26.46,Math
+TE3,Kỹ thuật Hàng không,"A00, A01",26.94,Math
+TE-E2,Kỹ thuật Ô tô (CT tiên tiến),"A00, A01",26.75,Math
+TE-EP,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),"A00, A01, D29",23.88,Math
+TROY-BA,Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ),"A00, A01, D01",22.5,
+TROY-IT,Khoa học máy tính - hợp tác với ĐH Troy (Hoa Ký),"A00, A01, D01",25,
+TX1,Kỹ thuật Dệt - May,"A00, A01, D07",23.04,Math

@@ -1,0 +1,60 @@
+Major ID,Major,Subjects Combination,Standard Grade,Main Subject
+BF1,Kỹ thuật Sinh học,"A00, B00",25.34,Math
+BF2,Kỹ thuật Thực phẩm,"A00, B00",25.94,Math
+CH1,Kỹ thuật Hóa học,"A00, B00, D07",25.2,Math
+CH2,Hóa học,"A00, B00, D07",24.96,Math
+CH3,Kỹ thuật In,"A00, B00, D07",24.45,Math
+ED2,Công nghệ Giáo dục,"A00, A01, D01",24.8,
+EE1,Kỹ thuật Điện,"A00, A01",26.5,
+EE2,Kỹ thuật Điều khiển và Tự động hóa,"A00, A01",27.46,Math
+EM1,Kinh tế Công nghiệp,"A00, A01, D01",25.65,
+EM2,Quản lý Công nghiệp,"A00, A01, D01",25.75,
+EM3,Quản trị Kinh doanh,"A00, A01, D01",26.04,
+EM4,Kế toán,"A00, A01, D01",25.76,
+EM5,Tài chính Ngân hàng,"A00, A01, D01",25.83,
+ET1,Kỹ thuật Điện tử Viễn thông,"A00, A01",26.8,Math
+EV1,Kỹ thuật Môi trường,"A00, B00, D07",24.01,Math
+EV2,Quản lý Tài nguyên và Môi trường*,"A00, B00, D07",23.53,
+FL1,Tiếng Anh KHKT và Công nghệ,D01,26.39,English
+FL2,Tiếng Anh chuyên nghiệp quốc tế,D01,26.11,English
+HE1,Kỹ thuật Nhiệt,"A00, A01",24.5,Math
+IT1,Khoa học Máy tính,"A00, A01",28.43,Math
+IT2,Kỹ thuật Máy tính,"A00, A01",28.1,Math
+ME1,Kỹ thuật Cơ điện tử,"A00, A01",26.91,Math
+ME2,Kỹ thuật Cơ khí,"A00, A01",25.78,Math
+MI1,Toán Tin,"A00, A01",27,Math
+MI2,Hệ thống thông tin quản lý,"A00, A01",27,Math
+MS1,Kỹ thuật Vật liệu,"A00, A01, D07",24.65,Math
+PH1,Vật lý Kỹ thuật,"A00, A01, A02",25.64,Math
+PH2,Kỹ thuật Hạt nhân,"A00, A01, A02",24.48,Math
+PH3,Vật lý Y khoa*,"A00, A01, A02",25.36,
+TE1,Kỹ thuật Ô tô,"A00, A01",26.94,Math
+TE2,Kỹ thuật Cơ khí động lực,"A00, A01",25.7,Math
+TE3,Kỹ thuật Hàng không,"A00, A01",26.48,Math
+TX1,Kỹ thuật Dệt May,"A00, A01",23.99,Math
+BF-E12,Kỹ thuật Thực phẩm (Chương trình tiên tiến),"A00, B00",24.44,Math
+CH-E11,Kỹ thuật Hóa dược (Chương trình tiên tiến),"A00, B00, D07",26.4,Math
+EE-E18,Hệ thống điện và năng lượng tái tạo (Chương trình tiên tiến),"A00, A01",25.71,
+EE-E8,Kỹ thuật điều khiển Tự động hóa (Chương trình tiên tiến),"A00, A01",27.26,Math
+EE-EP,Tin học công nghiệp và Tự động hóa (Chương trình tiên tiến),"A00, A01, D29",26.14,Math
+EM-E13,Phân tích Kinh doanh (Chương trình tiên tiến),"D07, A01, D01",25.55,Math
+EM-E14,Logistics và Quản lý chuỗi cung ứng (Chương trình tiên tiến),"D07, A01, D01",26.33,
+ET-E4,Kỹ thuật Điện tử Viễn thông (Chương trình tiên tiến),"A00, A01",26.59,Math
+ET-E5,Kỹ thuật Y sinh (Chương trình tiên tiến),"A00, A01",25.88,Math
+ET-E9,Hệ thống nhúng thông minh và IoT (Chương trình tiên tiến),"A00, A01, D28",26.93,Math
+ET-E16,Truyền thông số và Kỹ thuật đa phương tiện (Chương trình tiên tiến),"A00, A01",26.59,
+IT-E6,Công nghệ Thông tin Việt-Nhật (Chương trình tiên tiến),"A00, A01, D28",27.4,Math
+IT-E7,Công nghệ Thông tin Global ICT (Chương trình tiên tiến),"A00, A01",27.85,Math
+IT-E10,Khoa học Dữ liệu và Trí tuệ nhân tạo (Chương trình tiên tiến),"A00, A01",28.04,Math
+IT-E15,An toàn không gian số* (Chương trình tiên tiến),"A00, A01",27.44,
+IT-EP,Công nghệ Thông tin Việt-Pháp (Chương trình tiên tiến),"A00, A01, D29",27.19,Math
+ME-E1,Kỹ thuật Cơ điện tử (Chương trình tiên tiến),"A00, A01",26.3,Math
+MS-E3,KHKT Vật liệu (Chương trình tiên tiến),"A00, A01",23.99,Math
+TE-E2,Kỹ thuật Ô tô (Chương trình tiên tiến),"A00, A01",26.11,Math
+TE-EP,Cơ khí Hàng không Việt-Pháp (Chương trình tiên tiến),"A00, A01, D29",24.76,Math
+ET-LUH,Điện tử Viễn thông-Leibniz Hannover (Đức),"A00, A01, D26",25.13,
+ME-GU,Cơ khí Chế tạo máy-Griffith (Úc),"A00, A01",23.88,
+ME-LUH,Cơ điện tử-Leibniz Hannover (Đức),"A00, A01, D26",25.16,
+ME-NUT,Cơ điện tử-Nagaoka (Nhật Bản),"A00, A01, D28",24.88,
+TROY-BA,Quản trị Kinh doanh-Troy (Hoa Kỳ),"A00, A01, D01",23.25,
+TROY-IT,Khoa học Máy tính-Troy (Hoa Kỳ),"A00, A01, D01",25.5,

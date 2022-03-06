@@ -1,0 +1,51 @@
+Major ID,Major,Subjects Combination,Standard Grade,Main Subject
+BF1,Kỹ thuật Sinh học,"A00, B00, D07",21.1,Math
+BF2,Kỹ thuật Thực phẩm,"A00, B00, D07",21.7,Math
+CH1,Kỹ thuật Hóa học,"A00, B00, D07",20,Math
+CH2,Hóa học,"A00, B00, D07",20,Math
+CH3,Kỹ thuật in,"A00, B00, D07",20,Math
+EE1,Kỹ thuật Điện,"A00, A01",21,
+EE2,Kỹ thuật Điều khiển - Tự động hóa,"A00, A01",23.9,Math
+EE-E8,Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện,"A00, A01",23,Math
+EM1,Kinh tế công nghiệp,"A00, A01, D01",20,
+EM2,Quản lý công nghiệp,"A00, A01, D01",20,
+EM3,Quản trị kinh doanh,"A00, A01, D01",20.7,
+EM4,Kế toán,"A00, A01, D01",20.5,
+EM5,Tài chính - Ngân hàng,"A00, A01, D01",20,
+EM-NU,Quản lý công nghiệp - Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh),"A00, A01, D01, D07",20,
+EM-VUW,Quản trị kinh doanh - ĐH Victoria (New Zealand),"A00, A01, D01, D07",18,
+ET1,Kỹ thuật Điện tử - Viễn thông,"A00, A01",22,Math
+ET-E4,Chương trình tiên tiến Điện tử - Viễn thông,"A00, A01",21.7,Math
+ET-E5,Chương trình tiên tiến Kỹ thuật Y sinh,"A00, A01",21.7,Math
+ET-LUH,Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức),"A00, A01, D07",18,
+EV1,Kỹ thuật Môi trường,"A00, B00, D07",20,Math
+FL1,Tiếng Anh KHKT và Công nghệ,D01,21,English
+FL2,Tiếng Anh chuyên nghiệp quốc tế,D01,21,English
+HE1,Kỹ thuật Nhiệt,"A00, A01",20,Math
+IT1,Khoa học Máy tính,"A00, A01",25,Math
+IT2,Kỹ thuật Máy tính,"A00, A01",23.5,Math
+IT-E6,Công nghệ thông tin Việt-Nhật,"A00, A01",23.1,Math
+IT-E7,Công nghệ thông tin ICT,"A00, A01",24,Math
+IT-GINP,Hệ thống thông tin - ĐH Grenoble (Pháp),"A00, A01, D07, D29",18.8,
+IT-LTU,Công nghệ thông tin - ĐH La Trobe (Úc),"A00, A01, D07",20.5,
+IT-VUW,Công nghệ thông tin - ĐH Victoria (New Zealand),"A00, A01, D07",19.6,
+ME1,Kỹ thuật Cơ điện tử,"A00, A01",23.25,Math
+ME2,Kỹ thuật Cơ khí,"A00, A01",21.3,Math
+ME-E1,Chương trình tiên tiến Cơ điện tử,"A00, A01",21.55,Math
+ME-GU,Cơ khí - Chế tạo máy - ĐH Griffith (Úc),"A00, A01, D07",18,
+ME-NUT,Cơ điện tử - ĐH Nagaoka (Nhật Bản),"A00, A01, D07",20.35,
+MI1,Toán-Tin,"A00, A01",22.3,Math
+MI2,Hệ thống thông tin quản lý,"A00, A01",21.6,Math
+MS1,Kỹ thuật Vật liệu,"A00, A01",20,Math
+MS-E3,Chương trình tiên tiến KHKT Vật liệu,"A00, A01",20,Math
+PH2,Kỹ thuật hạt nhân,"A00, A01",20,Math
+PH1,Vật lý kỹ thuật,"A00, A01",20,Math
+TE1,Kỹ thuật Ô tô,"A00, A01",22.6,Math
+TE2,Kỹ thuật Cơ khí động lực,"A00, A01",22.2,Math
+TE3,Kỹ thuật Hàng không,"A00, A01",22,Math
+TE4,Kỹ thuật Tàu thủy,"A00, A01",20,
+TE-E2,Chương trình tiên tiến Kỹ thuật Ô tô,"A00, A01",21.35,Math
+TROY-BA,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ),"A00, A01, D01, D07",18,
+TROY-IT,Khoa học máy tính - ĐH Troy (Hoa Kỳ),"A00, A01, D01, D07",18,
+TX1,Kỹ thuật Dệt,"A00, A01",20,Math
+TX2,Công nghệ May,"A00, A01",20.5,

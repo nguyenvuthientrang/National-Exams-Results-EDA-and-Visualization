@@ -1,0 +1,151 @@
+,Major ID,Type,Grade
+0,PH2,Real Grades 2021,24.48
+1,PH2,Predicted Grades Lower 2021,23.14
+2,PH2,Predicted Grades Upper 2021,23.59
+3,EV1,Real Grades 2021,24.01
+4,EV1,Predicted Grades Lower 2021,23.29
+5,EV1,Predicted Grades Upper 2021,23.74
+6,ET-LUH,Real Grades 2021,25.13
+7,ET-LUH,Predicted Grades Lower 2021,23.45
+8,ET-LUH,Predicted Grades Upper 2021,23.95
+9,ME-LUH,Real Grades 2021,25.16
+10,ME-LUH,Predicted Grades Lower 2021,23.8
+11,ME-LUH,Predicted Grades Upper 2021,24.25
+12,ED2,Real Grades 2021,24.8
+13,ED2,Predicted Grades Lower 2021,23.85
+14,ED2,Predicted Grades Upper 2021,24.3
+15,TROY-BA,Real Grades 2021,23.25
+16,TROY-BA,Predicted Grades Lower 2021,23.9
+17,TROY-BA,Predicted Grades Upper 2021,24.4
+18,CH2,Real Grades 2021,24.96
+19,CH2,Predicted Grades Lower 2021,23.93
+20,CH2,Predicted Grades Upper 2021,24.38
+21,CH3,Real Grades 2021,24.45
+22,CH3,Predicted Grades Lower 2021,23.93
+23,CH3,Predicted Grades Upper 2021,24.38
+24,TROY-IT,Real Grades 2021,25.5
+25,TROY-IT,Predicted Grades Lower 2021,24.05
+26,TROY-IT,Predicted Grades Upper 2021,24.5
+27,MS1,Real Grades 2021,24.65
+28,MS1,Predicted Grades Lower 2021,24.3
+29,MS1,Predicted Grades Upper 2021,24.71
+30,ME-GU,Real Grades 2021,23.88
+31,ME-GU,Predicted Grades Lower 2021,24.3
+32,ME-GU,Predicted Grades Upper 2021,24.75
+33,MS-E3,Real Grades 2021,23.99
+34,MS-E3,Predicted Grades Lower 2021,24.45
+35,MS-E3,Predicted Grades Upper 2021,24.9
+36,TX1,Real Grades 2021,23.99
+37,TX1,Predicted Grades Lower 2021,24.53
+38,TX1,Predicted Grades Upper 2021,24.94
+39,EM-E13,Real Grades 2021,25.55
+40,EM-E13,Predicted Grades Lower 2021,24.6
+41,EM-E13,Predicted Grades Upper 2021,25.01
+42,PH1,Real Grades 2021,25.64
+43,PH1,Predicted Grades Lower 2021,24.67
+44,PH1,Predicted Grades Upper 2021,25.09
+45,HE1,Real Grades 2021,24.5
+46,HE1,Predicted Grades Lower 2021,24.79
+47,HE1,Predicted Grades Upper 2021,25.2
+48,CH1,Real Grades 2021,25.2
+49,CH1,Predicted Grades Lower 2021,24.79
+50,CH1,Predicted Grades Upper 2021,25.2
+51,EM1,Real Grades 2021,25.65
+52,EM1,Predicted Grades Lower 2021,24.85
+53,EM1,Predicted Grades Upper 2021,25.25
+54,ME-NUT,Real Grades 2021,24.88
+55,ME-NUT,Predicted Grades Lower 2021,24.95
+56,ME-NUT,Predicted Grades Upper 2021,25.35
+57,EM2,Real Grades 2021,25.75
+58,EM2,Predicted Grades Lower 2021,25.1
+59,EM2,Predicted Grades Upper 2021,25.5
+60,EM5,Real Grades 2021,25.83
+61,EM5,Predicted Grades Lower 2021,25.25
+62,EM5,Predicted Grades Upper 2021,25.65
+63,BF-E12,Real Grades 2021,24.44
+64,BF-E12,Predicted Grades Lower 2021,25.28
+65,BF-E12,Predicted Grades Upper 2021,25.69
+66,EM4,Real Grades 2021,25.76
+67,EM4,Predicted Grades Lower 2021,25.3
+68,EM4,Predicted Grades Upper 2021,25.7
+69,CH-E11,Real Grades 2021,26.4
+70,CH-E11,Predicted Grades Lower 2021,25.31
+71,CH-E11,Predicted Grades Upper 2021,25.76
+72,BF1,Real Grades 2021,25.34
+73,BF1,Predicted Grades Lower 2021,25.54
+74,BF1,Predicted Grades Upper 2021,25.95
+75,TE2,Real Grades 2021,25.7
+76,TE2,Predicted Grades Lower 2021,25.72
+77,TE2,Predicted Grades Upper 2021,26.1
+78,EM3,Real Grades 2021,26.04
+79,EM3,Predicted Grades Lower 2021,25.75
+80,EM3,Predicted Grades Upper 2021,26.1
+81,FL1,Real Grades 2021,26.39
+82,FL1,Predicted Grades Lower 2021,25.8
+83,FL1,Predicted Grades Upper 2021,26.1
+84,ME2,Real Grades 2021,25.78
+85,ME2,Predicted Grades Lower 2021,25.84
+86,ME2,Predicted Grades Upper 2021,26.21
+87,BF2,Real Grades 2021,25.94
+88,BF2,Predicted Grades Lower 2021,25.91
+89,BF2,Predicted Grades Upper 2021,26.33
+90,ME-E1,Real Grades 2021,26.3
+91,ME-E1,Predicted Grades Lower 2021,25.95
+92,ME-E1,Predicted Grades Upper 2021,26.33
+93,ET-E5,Real Grades 2021,25.88
+94,ET-E5,Predicted Grades Lower 2021,25.95
+95,ET-E5,Predicted Grades Upper 2021,26.33
+96,TE-E2,Real Grades 2021,26.11
+97,TE-E2,Predicted Grades Lower 2021,26.06
+98,TE-E2,Predicted Grades Upper 2021,26.44
+99,FL2,Real Grades 2021,26.11
+100,FL2,Predicted Grades Lower 2021,26.1
+101,FL2,Predicted Grades Upper 2021,26.44
+102,EE1,Real Grades 2021,26.5
+103,EE1,Predicted Grades Lower 2021,26.15
+104,EE1,Predicted Grades Upper 2021,26.5
+105,ET-E4,Real Grades 2021,26.59
+106,ET-E4,Predicted Grades Lower 2021,26.25
+107,ET-E4,Predicted Grades Upper 2021,26.62
+108,TE3,Real Grades 2021,26.48
+109,TE3,Predicted Grades Lower 2021,26.33
+110,TE3,Predicted Grades Upper 2021,26.7
+111,ET1,Real Grades 2021,26.8
+112,ET1,Predicted Grades Lower 2021,26.4
+113,ET1,Predicted Grades Upper 2021,26.74
+114,MI2,Real Grades 2021,27.0
+115,MI2,Predicted Grades Lower 2021,26.4
+116,MI2,Predicted Grades Upper 2021,26.74
+117,ET-E9,Real Grades 2021,26.93
+118,ET-E9,Predicted Grades Lower 2021,26.48
+119,ET-E9,Predicted Grades Upper 2021,26.85
+120,TE1,Real Grades 2021,26.94
+121,TE1,Predicted Grades Lower 2021,26.55
+122,TE1,Predicted Grades Upper 2021,26.92
+123,MI1,Real Grades 2021,27.0
+124,MI1,Predicted Grades Lower 2021,26.62
+125,MI1,Predicted Grades Upper 2021,27.0
+126,EE-E8,Real Grades 2021,27.26
+127,EE-E8,Predicted Grades Lower 2021,26.62
+128,EE-E8,Predicted Grades Upper 2021,27.0
+129,ME1,Real Grades 2021,26.91
+130,ME1,Predicted Grades Lower 2021,26.74
+131,ME1,Predicted Grades Upper 2021,27.11
+132,IT-E6,Real Grades 2021,27.4
+133,IT-E6,Predicted Grades Lower 2021,26.92
+134,IT-E6,Predicted Grades Upper 2021,27.3
+135,IT-E7,Real Grades 2021,27.85
+136,IT-E7,Predicted Grades Lower 2021,27.11
+137,IT-E7,Predicted Grades Upper 2021,27.49
+138,EE2,Real Grades 2021,27.46
+139,EE2,Predicted Grades Lower 2021,27.11
+140,EE2,Predicted Grades Upper 2021,27.49
+141,IT2,Real Grades 2021,28.1
+142,IT2,Predicted Grades Lower 2021,27.6
+143,IT2,Predicted Grades Upper 2021,28.01
+144,IT-E10,Real Grades 2021,28.04
+145,IT-E10,Predicted Grades Lower 2021,27.71
+146,IT-E10,Predicted Grades Upper 2021,28.12
+147,IT1,Real Grades 2021,28.43
+148,IT1,Predicted Grades Lower 2021,28.01
+149,IT1,Predicted Grades Upper 2021,28.39

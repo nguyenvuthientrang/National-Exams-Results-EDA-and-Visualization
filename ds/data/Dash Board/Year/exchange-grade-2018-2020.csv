@@ -1,0 +1,136 @@
+,Major ID,Type,Grade
+0,EM-VUW,Real Grades 2020,22.7
+1,EM-VUW,Predicted Grades Lower 2020,22.55
+2,EM-VUW,Predicted Grades Upper 2020,23.2
+3,TROY-IT,Real Grades 2020,25.0
+4,TROY-IT,Predicted Grades Lower 2020,22.55
+5,TROY-IT,Predicted Grades Upper 2020,23.2
+6,TROY-BA,Real Grades 2020,22.5
+7,TROY-BA,Predicted Grades Lower 2020,22.55
+8,TROY-BA,Predicted Grades Upper 2020,23.2
+9,ME-GU,Real Grades 2020,23.9
+10,ME-GU,Predicted Grades Lower 2020,23.6
+11,ME-GU,Predicted Grades Upper 2020,24.05
+12,ET-LUH,Real Grades 2020,23.85
+13,ET-LUH,Predicted Grades Lower 2020,23.6
+14,ET-LUH,Predicted Grades Upper 2020,24.05
+15,EM1,Real Grades 2020,24.65
+16,EM1,Predicted Grades Lower 2020,24.3
+17,EM1,Predicted Grades Upper 2020,24.8
+18,EM2,Real Grades 2020,25.05
+19,EM2,Predicted Grades Lower 2020,24.3
+20,EM2,Predicted Grades Upper 2020,24.8
+21,EM5,Real Grades 2020,24.6
+22,EM5,Predicted Grades Lower 2020,24.3
+23,EM5,Predicted Grades Upper 2020,24.8
+24,FL2,Real Grades 2020,24.1
+25,FL2,Predicted Grades Lower 2020,24.34
+26,FL2,Predicted Grades Upper 2020,24.83
+27,FL1,Real Grades 2020,24.1
+28,FL1,Predicted Grades Lower 2020,24.34
+29,FL1,Predicted Grades Upper 2020,24.83
+30,IT-VUW,Real Grades 2020,25.55
+31,IT-VUW,Predicted Grades Lower 2020,24.65
+32,IT-VUW,Predicted Grades Upper 2020,25.05
+33,EM4,Real Grades 2020,25.3
+34,EM4,Predicted Grades Lower 2020,24.7
+35,EM4,Predicted Grades Upper 2020,25.15
+36,EM3,Real Grades 2020,25.75
+37,EM3,Predicted Grades Lower 2020,24.8
+38,EM3,Predicted Grades Upper 2020,25.25
+39,ME-NUT,Real Grades 2020,24.5
+40,ME-NUT,Predicted Grades Lower 2020,25.1
+41,ME-NUT,Predicted Grades Upper 2020,25.5
+42,IT-LTU,Real Grades 2020,26.5
+43,IT-LTU,Predicted Grades Lower 2020,25.2
+44,IT-LTU,Predicted Grades Upper 2020,25.6
+45,CH1,Real Grades 2020,25.26
+46,CH1,Predicted Grades Lower 2020,25.24
+47,CH1,Predicted Grades Upper 2020,25.61
+48,EV1,Real Grades 2020,23.85
+49,EV1,Predicted Grades Lower 2020,25.24
+50,EV1,Predicted Grades Upper 2020,25.61
+51,MS-E3,Real Grades 2020,23.18
+52,MS-E3,Predicted Grades Lower 2020,25.24
+53,MS-E3,Predicted Grades Upper 2020,25.61
+54,CH2,Real Grades 2020,24.16
+55,CH2,Predicted Grades Lower 2020,25.24
+56,CH2,Predicted Grades Upper 2020,25.61
+57,TX1,Real Grades 2020,23.04
+58,TX1,Predicted Grades Lower 2020,25.24
+59,TX1,Predicted Grades Upper 2020,25.61
+60,MS1,Real Grades 2020,25.18
+61,MS1,Predicted Grades Lower 2020,25.24
+62,MS1,Predicted Grades Upper 2020,25.61
+63,HE1,Real Grades 2020,25.8
+64,HE1,Predicted Grades Lower 2020,25.24
+65,HE1,Predicted Grades Upper 2020,25.61
+66,CH3,Real Grades 2020,24.51
+67,CH3,Predicted Grades Lower 2020,25.24
+68,CH3,Predicted Grades Upper 2020,25.61
+69,PH2,Real Grades 2020,24.7
+70,PH2,Predicted Grades Lower 2020,25.24
+71,PH2,Predicted Grades Upper 2020,25.61
+72,PH1,Real Grades 2020,26.18
+73,PH1,Predicted Grades Lower 2020,25.24
+74,PH1,Predicted Grades Upper 2020,25.61
+75,BF1,Real Grades 2020,26.2
+76,BF1,Predicted Grades Lower 2020,25.91
+77,BF1,Predicted Grades Upper 2020,26.25
+78,ME2,Real Grades 2020,26.51
+79,ME2,Predicted Grades Lower 2020,25.99
+80,ME2,Predicted Grades Upper 2020,26.33
+81,TE-E2,Real Grades 2020,26.75
+82,TE-E2,Predicted Grades Lower 2020,26.03
+83,TE-E2,Predicted Grades Upper 2020,26.36
+84,ME-E1,Real Grades 2020,26.75
+85,ME-E1,Predicted Grades Lower 2020,26.14
+86,ME-E1,Predicted Grades Upper 2020,26.44
+87,MI2,Real Grades 2020,27.25
+88,MI2,Predicted Grades Lower 2020,26.14
+89,MI2,Predicted Grades Upper 2020,26.47
+90,ET-E4,Real Grades 2020,27.15
+91,ET-E4,Predicted Grades Lower 2020,26.21
+92,ET-E4,Predicted Grades Upper 2020,26.55
+93,ET-E5,Real Grades 2020,26.5
+94,ET-E5,Predicted Grades Lower 2020,26.21
+95,ET-E5,Predicted Grades Upper 2020,26.55
+96,BF2,Real Grades 2020,26.6
+97,BF2,Predicted Grades Lower 2020,26.25
+98,BF2,Predicted Grades Upper 2020,26.62
+99,TE3,Real Grades 2020,26.94
+100,TE3,Predicted Grades Lower 2020,26.36
+101,TE3,Predicted Grades Upper 2020,26.66
+102,ET1,Real Grades 2020,27.3
+103,ET1,Predicted Grades Lower 2020,26.36
+104,ET1,Predicted Grades Upper 2020,26.66
+105,TE2,Real Grades 2020,26.46
+106,TE2,Predicted Grades Lower 2020,26.47
+107,TE2,Predicted Grades Upper 2020,26.81
+108,MI1,Real Grades 2020,27.56
+109,MI1,Predicted Grades Lower 2020,26.55
+110,MI1,Predicted Grades Upper 2020,26.85
+111,TE1,Real Grades 2020,27.33
+112,TE1,Predicted Grades Lower 2020,26.66
+113,TE1,Predicted Grades Upper 2020,27.0
+114,EE-E8,Real Grades 2020,27.43
+115,EE-E8,Predicted Grades Lower 2020,26.89
+116,EE-E8,Predicted Grades Upper 2020,27.22
+117,IT-E6,Real Grades 2020,27.98
+118,IT-E6,Predicted Grades Lower 2020,26.92
+119,IT-E6,Predicted Grades Upper 2020,27.26
+120,ME1,Real Grades 2020,27.48
+121,ME1,Predicted Grades Lower 2020,27.0
+122,ME1,Predicted Grades Upper 2020,27.34
+123,IT2,Real Grades 2020,28.65
+124,IT2,Predicted Grades Lower 2020,27.15
+125,IT2,Predicted Grades Upper 2020,27.45
+126,EE2,Real Grades 2020,28.16
+127,EE2,Predicted Grades Lower 2020,27.38
+128,EE2,Predicted Grades Upper 2020,27.68
+129,IT-E7,Real Grades 2020,28.38
+130,IT-E7,Predicted Grades Lower 2020,27.41
+131,IT-E7,Predicted Grades Upper 2020,27.71
+132,IT1,Real Grades 2020,29.04
+133,IT1,Predicted Grades Lower 2020,27.9
+134,IT1,Predicted Grades Upper 2020,28.24

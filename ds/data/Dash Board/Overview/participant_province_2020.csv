@@ -1,0 +1,64 @@
+,CityCode,Province,AreaCode,Area,Count
+0,1,Hanoi,1,Red River Delta,78862
+1,2,Ho Chi Minh City,5,South East,74453
+2,3,Hai Phong,1,Red River Delta,18534
+3,4,Da Nang,3,North Central and Central coastal areas,5220
+4,5,Ha Giang,2,Northern midlands and mountain areas,5627
+5,6,Cao Bang,2,Northern midlands and mountain areas,4599
+6,7,Lai Chau,2,Northern midlands and mountain areas,3299
+7,8,Lao Cai,2,Northern midlands and mountain areas,6355
+8,9,Tuyen Quang,2,Northern midlands and mountain areas,7996
+9,10,Lang Son,2,Northern midlands and mountain areas,8646
+10,11,Bac Kan,2,Northern midlands and mountain areas,2852
+11,12,Thai Nguyen,2,Northern midlands and mountain areas,15192
+12,13,Yen Bai,2,Northern midlands and mountain areas,7404
+13,14,Son La,2,Northern midlands and mountain areas,11626
+14,15,Phu Tho,2,Northern midlands and mountain areas,13810
+15,16,Vinh Phuc,1,Red River Delta,12172
+16,17,Quang Ninh,1,Red River Delta,14547
+17,18,Bac Giang,2,Northern midlands and mountain areas,19309
+18,19,Bac Ninh,1,Red River Delta,14621
+19,21,Hai Duong,1,Red River Delta,19584
+20,22,Hung Yen,1,Red River Delta,12781
+21,23,Hoa Binh,2,Northern midlands and mountain areas,9153
+22,24,Ha Nam,1,Red River Delta,8575
+23,25,Nam Dinh,1,Red River Delta,18668
+24,26,Thai Binh,1,Red River Delta,19623
+25,27,Ninh Binh,1,Red River Delta,9220
+26,28,Thanh Hoa,3,North Central and Central coastal areas,34741
+27,29,Nghe An,3,North Central and Central coastal areas,31073
+28,30,Ha Tinh,3,North Central and Central coastal areas,15308
+29,31,Quang Binh,3,North Central and Central coastal areas,10660
+30,32,Quang Tri,3,North Central and Central coastal areas,7930
+31,33,Thua Thien - Hue,3,North Central and Central coastal areas,12522
+32,34,Quang Nam,3,North Central and Central coastal areas,11661
+33,35,Quang Ngai,3,North Central and Central coastal areas,12147
+34,36,Kon Tum,4,Central Highlands,4295
+35,37,Binh Dinh,3,North Central and Central coastal areas,16878
+36,38,Gia Lai,4,Central Highlands,13315
+37,39,Phu Yen,3,North Central and Central coastal areas,10080
+38,40,Dak Lak,4,Central Highlands,16608
+39,41,Khanh Hoa,3,North Central and Central coastal areas,13095
+40,42,Lam Dong,4,Central Highlands,13497
+41,43,Binh Phuoc,5,South East,9774
+42,44,Binh Duong,5,South East,11386
+43,45,Ninh Thuan,3,North Central and Central coastal areas,5717
+44,46,Tay Ninh,5,South East,8545
+45,47,Binh Thuan,3,North Central and Central coastal areas,10895
+46,48,Dong Nai,5,South East,28256
+47,49,Long An,6,Mekong River Delta,13852
+48,50,Dong Thap,6,Mekong River Delta,13387
+49,51,An Giang,6,Mekong River Delta,15239
+50,52,Ba Ria - Vung Tau,5,South East,11442
+51,53,Tien Giang,6,Mekong River Delta,14283
+52,54,Kien Giang,6,Mekong River Delta,12434
+53,55,Can Tho,6,Mekong River Delta,10650
+54,56,Ben Tre,6,Mekong River Delta,11313
+55,57,Vinh Long,6,Mekong River Delta,10216
+56,58,Tra Vinh,6,Mekong River Delta,7890
+57,59,Soc Trang,6,Mekong River Delta,8514
+58,60,Bac Lieu,6,Mekong River Delta,5590
+59,61,Ca Mau,6,Mekong River Delta,9637
+60,62,Dien Bien,2,Northern midlands and mountain areas,5609
+61,63,Dak Nong,4,Central Highlands,6212
+62,64,Hau Giang,6,Mekong River Delta,5814
